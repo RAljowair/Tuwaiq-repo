@@ -1,7 +1,14 @@
+body {
+  background-color: #fff;
+}
+
 h1 {
   font-family: "Courier New", Courier, monospace;
-  background-color: rgb(136, 0, 0);
-  color: aliceblue;
+  color: #000;
   text-align: center;
-  margin: 0;
+}
+
+.git {
+  color: rgb(162, 0, 0);
+  font-weight: 700;
 }
